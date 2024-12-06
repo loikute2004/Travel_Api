@@ -1,0 +1,6 @@
+@Android_Travel_HostAddress = http://localhost:5273
+
+GET {{Android_Travel_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
